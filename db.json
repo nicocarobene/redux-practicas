@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "content": "bienvenidos a la clase de midu desde back end",
+      "important": true,
+      "id": 1
+    },
+    {
+      "content": "Graias por venir a la clase en un domingo. Molas mucho, desde back end",
+      "important": true,
+      "id": 2
+    },
+    {
+      "content": "hola papa",
+      "important": false,
+      "id": 3
+    },
+    {
+      "content": "como estas",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "hooo",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "HOLA BUENAS NOCHES",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "HOOOLLAAA",
+      "important": false,
+      "id": 7
+    }
+  ]
+}
